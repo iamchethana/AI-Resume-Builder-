@@ -13,8 +13,7 @@ An intelligent Resume Builder web application that helps users generate professi
 ## 🛠️ Tech Stack
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: (Add if you used Node.js / Express / etc.)
-- Database: (Add if applicable)
+- Backend:  Node.js / Express .
 - AI Integration: (Mention OpenAI or other AI service if used)
 
 ## 📦 Installation
